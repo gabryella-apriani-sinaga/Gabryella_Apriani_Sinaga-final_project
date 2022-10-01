@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Lobster&family=Open+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Lobster&family=Open+Sans&family=Playfair+Display:wght@600&display=swap");
+.logo p {
+  font-family: "Dancing Script", cursive;
+}
+
+.banner h1 {
+  font-family: "Lobster", cursive;
+}
+.title {
+  font-family: "Playfair Display", serif;
+}
+.small-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+/* @media screen and (max-width: 600px) {
+  header {
+    display: flex;
+    justify-content: space-between;
+  }
+  nav {
+    display: none;
+  }
+} */
